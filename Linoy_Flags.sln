@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linoy_Flags", "Linoy_Flags.csproj", "{94D93478-FADF-4B89-90D9-E5B6D7194EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D93478-FADF-4B89-90D9-E5B6D7194EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D93478-FADF-4B89-90D9-E5B6D7194EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D93478-FADF-4B89-90D9-E5B6D7194EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D93478-FADF-4B89-90D9-E5B6D7194EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE33679-90C8-4903-A2BB-800D94543471}
+	EndGlobalSection
+EndGlobal
